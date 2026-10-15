@@ -10,7 +10,7 @@ A small project for practicing Git and GitHub fundamentals.
 
 - Git
 - GitHub
-- HTML, CSS and JavaScript
+- HTML, CSS , JavaScript
 
 ```
 git status
